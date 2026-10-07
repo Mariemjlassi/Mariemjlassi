@@ -1,43 +1,41 @@
-<h1 align="center">Hi, I'm Mariem 👋</h1>
-<p align="center">
-  Software engineering student · Full-stack developer · Tunis 🇹🇳
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FF7900&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Mariem+%F0%9F%91%8B;I+build+things+end+to+end.;API+%E2%86%92+UI+%E2%86%92+CI%2FCD+%E2%86%92+production." alt="Typing intro" />
+
+**Full-stack developer · Engineering student · Tunis 🇹🇳**
+
+[Portfolio](https://mariem-jlassi.vercel.app) · [LinkedIn](https://linkedin.com/in/mariem-jlassi) · [Email](mailto:mariemjlassi515@gmail.com)
+
+</div>
 
 ---
 
-### About me
-- 🎓 2nd-year Engineering Cycle in Computer Science at **iTeam University** (ranked 3rd in my class)
-- 🎓 Licence in Computer Technologies from **ISET Radès**
-- 🚀 Shipped a project to production during my time at **CNI**
-- 🌱 Currently exploring mobile development and applied ML
+> I like building, not just observing. The part I enjoy most is the moment
+> a project leaves my laptop and works for real users.
 
-### Tech stack
-**Backend** &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+### 🔥 Right now
+Building fintech features with a startup at **Orange Digital Center** (Orange Summer Challenge): Python REST APIs on the back, the user interface on the front.
 
-**Frontend & Mobile** &nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🚢 Things I've built
 
-**Data & DevOps** &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**🏛️ Local rental tax app** · *CNI, 2024*
+Spring Boot + Angular, secured with JWT. **Deployed to production**: Railway, Netlify, Neon. A GitHub Actions pipeline runs JUnit/Mockito tests and deploys only when they pass.
 
-### Featured projects
-| Project | What it is | Stack |
-|---|---|---|
-| [OrgaRH](https://github.com/Mariemjlassi/orgarh-backend) | HR management platform — [backend](https://github.com/Mariemjlassi/orgarh-backend) · [frontend](https://github.com/Mariemjlassi/orgarh-front) | Spring Boot · Angular |
-| [adaptive-traffic-simulation](https://github.com/Mariemjlassi/adaptive-traffic-simulation) | Adaptive traffic-light control simulation with emergency priority and pedestrian safety | Python |
-| [SymBook](https://github.com/Mariemjlassi/SymBook) | _one-line description_ | PHP |
-| [MyPortfolio](https://github.com/Mariemjlassi/MyPortfolio) | Personal portfolio website | HTML · CSS |
+**👥 [OrgaRH](https://github.com/Mariemjlassi/orgarh-backend)** · *Final-year project, Excellent Honors*
+HR career-management platform. Accounts lock after repeated failed logins, forms are protected by reCAPTCHA v3, and the API is documented with Swagger.
+[backend](https://github.com/Mariemjlassi/orgarh-backend) · [frontend](https://github.com/Mariemjlassi/orgarh-front)
 
-<!-- Add Mawashi here if its repo is public -->
+**🐄 Mawashi** · *Smart farming, 2026*
+Livestock-management platform for farmers, vets and admins on web and mobile. Its standout feature uses **GPS geo-fencing** to raise health alerts when a disease outbreak is detected nearby.
+Spring Boot · React · React Native · PostgreSQL
 
-### Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariemjlassi515@gmail.com)
+**🚦 [Adaptive traffic simulation](https://github.com/Mariemjlassi/adaptive-traffic-simulation)**
+Traffic lights that adapt in real time: they give priority to emergency vehicles and also take pedestrians and weather into account.
+
+### 🧰 Tools I reach for
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,python,php,symfony,postgres,mysql,mongodb,githubactions,linux,git&perline=7" alt="Tech stack" />
+</p>
+
+<sub>🎓 iTeam University, Engineering Cycle (ranked 3rd in my class) · ISET Radès, IT Licence</sub>
